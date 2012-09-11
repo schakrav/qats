@@ -15,7 +15,7 @@ Feature: Home page
 		When I go to Privacy
 		Then I should see "Our Privacy Policy."
 
-	Scenario: Privacy
+	Scenario: Contact
 		When I go to Contact
 		Then I should see "Contact Us."
 
